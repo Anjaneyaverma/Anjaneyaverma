@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Anjaneya Verma<br><br>💻 A passionate Java Full Stack Developer in training, currently learning and building projects with:<br><br>Core Java | Advanced Java (Servlets, JSP, JDBC, Hibernate, JPA, Spring Boot)<br><br>Frontend: React, HTML, CSS, JavaScript<br><br>Database: MySQL, PostgreSQL<br><br>DevOps Tools: Docker, Kubernetes, Git, GitHub, CI/CD pipelines<br><br>🚀 Currently working on Easy Boarding – a microservices-based project for railways.<br>📚 Exploring Spring Boot, REST APIs, JWT, Hibernate, and Microservices architecture.<br>🌱 Always eager to learn and share knowledge through clean and scalable code.
+👋 Hi, I’m Anjaneya Verma<br><br>💻 A passionate Java Full Stack Developer in training, currently learning and building projects with:<br><br>Core Java | Advanced Java (Servlets, JSP, JDBC, Hibernate, JPA, Spring Boot)<br>Python (Backend Development, REST APIs)<br>Frontend: React, HTML, CSS, JavaScript<br><br>Database: MySQL, PostgreSQL<br><br>DevOps Tools: Docker, Kubernetes, Git, GitHub, CI/CD pipelines<br><br>🚀 Currently working on Easy Boarding – a microservices-based project for railways.<br>📚 Exploring Spring Boot, REST APIs, JWT, Hibernate, and Microservices architecture.<br>🌱 Always eager to learn and share knowledge through clean and scalable code.
 
 
 # 💻 Tech Stack:
